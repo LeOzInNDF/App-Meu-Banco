@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeuBanco</string>
+    <string name="disponiveis_para_voce">disponíveis para você</string>
+    <string name="nossos_servicos">nossos serviços</string>
+</resources>
